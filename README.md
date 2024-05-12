@@ -40,6 +40,11 @@ To add 🤖BubsBot🤖 to your Discord server, you'll need to follow these steps
 
 Please note that these commands are case-sensitive and should be used exactly as shown.
 
+### 🆔**How To Find Discord Server ID**🆔
+   - (a) Right-click on the server name in the server list on the left-hand side.
+   - (b) Select "Copy ID" from the context menu that appears.
+   - (c) Click on your discord server name " example discord server " , click server settings , click roles , `READ` step (b) thanks
+
 ### 🏃‍♂️Run the Bot:🤖
 - (a) Once everything is set up, the developer will run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
 
