@@ -51,6 +51,9 @@ Please note that these commands are case-sensitive and should be used exactly as
 ### 🆘Contributing🆘
 Contributions to 🤖BubsBot🤖 are always welcome! If you have ideas for improvements, bug fixes, or new features, feel free to contribute by forking the repository, making your changes, and submitting a pull request.
 
+### Contact The Developer
+📧 Contact Bubbles The Dev -> kernferm@gmail.com
+
 ### License
 
 This project is licensed under a proprietary license. All rights are reserved by the author. You are allowed to use and share the bot, but `Modifications are NOT` allowed. For any changes, please contact the developer. Unauthorized distribution of this project is prohibited.
