@@ -1,3 +1,5 @@
+- check release notes V0.2
+
 # Introducing 🤖BubsBot🤖 for Your Discord Server
 
 🤖BubsBot🤖 is a specialized Discord bot, meticulously crafted to enhance the management and moderation of your server. It is equipped with the capability to automatically delete messages that contain "@everyone" or "@here" from non-admin users, ensuring a spam-free environment for your community. 
