@@ -1,4 +1,0 @@
-# bubs bot is in 2 servers
-
-- main server - bubs_bot
-- second server - bubs_bot 2
