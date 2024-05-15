@@ -1,6 +1,15 @@
-- check **`RELEASES`** notes on V0.2
+# Bubs_Bot 🤖
 
-# Introducing 🤖BubsBot🤖 for Your Discord Server
+Welcome to the **Bubs_Bot** repository! 🎉
+
+## 📢 Important
+
+For the latest updates, new features, and bug fixes, please check the **[Releases](https://github.com/KernFerm/BubsBotDiscordBot/releases)** section. 🚀
+
+Thank you for your interest in **Bubs_Bot**! 🙌
+
+
+## Introducing 🤖BubsBot🤖 for Your Discord Server
 
 🤖BubsBot🤖 is a specialized Discord bot, meticulously crafted to enhance the management and moderation of your server. It is equipped with the capability to automatically delete messages that contain "@everyone" or "@here" from non-admin users, ensuring a spam-free environment for your community. 
 
