@@ -1,14 +1,3 @@
-# Bubs_Bot 🤖
-
-Welcome to the **Bubs_Bot** repository! 🎉
-
-## 📢 Important
-
-For the latest updates, new features, and bug fixes, please check the **[Releases](https://github.com/KernFerm/BubsBotDiscordBot/releases)** section. 🚀
-
-Thank you for your interest in **Bubs_Bot**! 🙌
-
-
 ## Introducing 🤖BubsBot🤖 for Your Discord Server
 
 🤖BubsBot🤖 is a specialized Discord bot, meticulously crafted to enhance the management and moderation of your server. It is equipped with the capability to automatically delete messages that contain "@everyone" or "@here" from non-admin users, ensuring a spam-free environment for your community. 
@@ -69,3 +58,14 @@ Contributions to 🤖BubsBot🤖 are always welcome! If you have ideas for impro
 ### License
 
 This project is licensed under a proprietary license. All rights are reserved by the author. You are allowed to use and share the bot, but `Modifications are NOT` allowed. For any changes, please contact the developer. Unauthorized distribution of this project is prohibited.
+
+
+# Bubs_Bot 🤖
+
+Welcome to the **Bubs_Bot** repository! 🎉
+
+## 📢 Important
+
+For the latest updates, new features, and bug fixes, please check the **[Releases](https://github.com/KernFerm/BubsBotDiscordBot/releases)** section. 🚀
+
+Thank you for your interest in **Bubs_Bot**! 🙌
