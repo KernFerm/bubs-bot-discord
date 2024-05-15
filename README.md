@@ -1,4 +1,4 @@
-- check release notes V0.2
+- check **RELEASES** notes on V0.2
 
 # Introducing 🤖BubsBot🤖 for Your Discord Server
 
