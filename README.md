@@ -50,6 +50,8 @@ To add 🤖BubsBot🤖 to your Discord server, you'll need to follow these steps
 
 Please note that these commands are case-sensitive and should be used exactly as shown.
 
+### Create A 🥳Daily Rewards🥳 Channel: `so you can do the /daily /coins` 
+
 ### 🆔**How To Find Discord Server ID**🆔
    - (a) Right-click on the server name in the server list on the left-hand side.
    - (b) Select "Copy ID" from the context menu that appears.
