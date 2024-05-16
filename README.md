@@ -36,6 +36,8 @@ To add 🤖BubsBot🤖 to your Discord server, you'll need to follow these steps
 - (b) The bot's command prefix and the name of the timeout role are pre-configured and should not be changed to ensure the bot works properly.
 - (c) The `/test` command is specifically designed to work only for the server owner or users with the ADMIN role. No additional configuration is necessary for this command.
 
+- for admin role **view channel** **administrator**
+
        copy & paste for role ->  SERVER OWNER/ADMIN   <- copy & paste for role
 
 - (d) If you need to make any changes or adjustments, please contact the developer. Unauthorized modifications are not allowed and may lead to the bot malfunctioning.
