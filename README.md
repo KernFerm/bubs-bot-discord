@@ -10,6 +10,7 @@ Thank you for your interest in **Bubs_Bot**! 🙌
  - **for larger discord servers it will take a little bit to setup.**
 
 - (b) **`Just send me an invite to your discord server`**
+- (c) **`Once everything is setup, I will simply leave your server.`**
 - **contact info bottom on the readme**
 ------
 
