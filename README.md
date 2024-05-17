@@ -9,8 +9,8 @@ Thank you for your interest in **Bubs_Bot**! 🙌
  - **for small discord servers it fast and quick setup.**
  - **for larger discord servers it will take a little bit to setup.**
 
-## just send me an invite to your discord server 
-- contact info below on the readme 
+- (b) **`Just send me an invite to your discord server`**
+- **contact info bottom on the readme**
 ------
 
 ### **⚠️Please Read Below⚠️**
