@@ -13,7 +13,7 @@ Thank you for your interest in **Bubs_Bot**! 🙌
 - contact info below on the readme 
 ------
 
-### Please Read Below:
+### **⚠️Please Read Below:⚠️**
 
 ------
 
