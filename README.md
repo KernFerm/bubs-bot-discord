@@ -10,7 +10,7 @@ Thank you for your interest in **Bubs_Bot**! 🙌
  - for larger discord servers it will take a little bit to setup.
 
 ## just send me an invite to your discord server 
-- contact infor below on the readme 
+- contact info below on the readme 
 ------
 
 ## Introducing 🤖BubsBot🤖 for Your Discord Server
