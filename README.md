@@ -1,6 +1,7 @@
 ## 📢 Important
 
 For the latest updates, new features, and bug fixes, please check the **[Releases](https://github.com/KernFerm/BubsBotDiscordBot/releases)** section. 🚀
+                                                                      **[Pre-Release](https://github.com/KernFerm/BubsBotDiscordBot/releases/tag/filters)**
 
 Thank you for your interest in **Bubs_Bot**! 🙌
 
