@@ -5,9 +5,6 @@ For the latest updates, new features, and bug fixes, please check the **[Release
 
 Thank you for your interest in **Bubs_Bot**! 🙌
 
-------
-
-coded in now both in  **Python** & **Javascript** - **NodeJS**
 
 ------
 - (a)**`If you need me to help you with setting up the Timeout Role for your discord server , just let me know. you would have to make me adminstrator role to set everything up , very easy.`**
